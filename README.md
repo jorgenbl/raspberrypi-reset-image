@@ -1,5 +1,7 @@
-# An automatic build of a Rasberry Pi image that can be reset
+# Raspbian reset image
 
+
+An automatic build of a Rasbian image that can be reset
 
 All credits go to the guys over at Lime Pepper LTD
 
